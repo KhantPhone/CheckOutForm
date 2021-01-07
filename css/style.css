@@ -1,0 +1,21 @@
+/*global classes*/
+.font-bar{
+	font-family: 'Barlow', sans-serif;
+}
+.font-sar{
+	font-family: 'Sarabun', sans-serif;
+}
+.font-20{
+	font-size: 20px;
+}
+.font-16{
+	font-size: 15px;
+}
+.bg-white{
+	background:#FFFFFF;
+}
+body{
+	background: #F8F9FA;
+	margin:0;
+	padding: 0;
+}
